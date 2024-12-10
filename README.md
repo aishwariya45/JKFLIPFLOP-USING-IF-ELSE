@@ -11,7 +11,6 @@ Quartus prime
 **THEORY**
 
 ![image](https://github.com/user-attachments/assets/5ce24377-d2e7-4913-9185-21dd1784b7ec)
-![image](https://github.com/user-attachments/assets/ca19d41b-30c9-4a20-a325-65e8aa4b9afa)
 
 
 **JK Flip-Flop**
