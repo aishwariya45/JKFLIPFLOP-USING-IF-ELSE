@@ -71,8 +71,8 @@ endmodule
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![Screenshot 2024-11-25 173411](https://github.com/user-attachments/assets/1f6330d7-1f7e-49cb-b323-5c1fe6e3cb0b)
 
+![Screenshot 2024-12-10 114600](https://github.com/user-attachments/assets/c3032172-1446-4f88-ada3-a7de7a91f1a4)
 
 **RESULTS**
 the JK flip flop are verified successfully
